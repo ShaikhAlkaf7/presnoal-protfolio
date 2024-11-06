@@ -28,7 +28,7 @@ const Home = () => {
         <button className="mt-5 md:mt-10 text-white py-2 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-xl bg-[#465697]">
           <a
             target="_blank"
-            href="https://docs.google.com/document/d/1d0sPp0DdxyRPyFp2GIwAfAX4uuiJ2VeO-LgpMAQ0ckU/edit?usp=sharing"
+            href="https://docs.google.com/document/d/1liJhLp147A2ibzbA_4gLQVWvRGBVgQzxh9VfqH9bEUs/edit?tab=t.0#heading=h.scqqz1val839"
           >
             Resume
           </a>
